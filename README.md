@@ -82,7 +82,7 @@ nvm install --lts
 
 ### Instalasi pnpm
 ```bash
-npm install -g pnpm@latest-10
+curl -fsSL https://get.pnpm.io/install.sh | sh -
 ```
 
 ### Instalasi Python
