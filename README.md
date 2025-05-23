@@ -73,7 +73,7 @@ git clone --depth=1 https://github.com/agkozak/zsh-z ${ZSH_CUSTOM:-~/.oh-my-zsh/
 ## Instalasi dan setup tool utama(nodejs. pnpm, python, mysql. nginx)
 ### Instalasi nodejs(nvm)
 ```bash
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.3/install.sh | bash
 ```
 kemudian restart dan jalankan:
 ```bash
